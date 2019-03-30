@@ -39,7 +39,7 @@ class Graph:
         queue.append(src)
 
         while not len(queue) == 0:
-            u = queue[0:1][0]
+            u = queue[0]
             queue.remove(u)
             for v in range(len(self.adj_mat[u])):
                 if not visited[v] and self.adj_mat[u][v] != 0:
