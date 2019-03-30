@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pacman.py" line="80" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="398d8654-c0d4-4203-b42c-6cd6c455fd0b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="150">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pacman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+              <folding>
+                <element signature="e#256#1957#0" />
+                <element signature="e#988#1859#0" />
+                <element signature="e#1035#1806#0" />
+                <element signature="e#1151#1781#0" />
+                <element signature="e#1617#1781#0" />
+                <element signature="e#1913#2196#0" />
+                <element signature="e#1142#1165#0" />
+                <element signature="e#1227#1331#0" />
+                <element signature="e#1392#1499#0" />
+                <element signature="e#2761#2893#0" />
+                <element signature="e#2954#3128#0" />
+                <element signature="e#3204#3404#0" />
+                <element signature="e#1743#2119#0" />
+                <element signature="e#1981#2094#0" />
+                <element signature="e#3137#3290#0" />
+                <element signature="e#4292#4436#1" />
+                <element signature="e#4479#4635#0" />
+                <element signature="e#4528#4618#0" />
+                <element signature="e#4578#4618#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/actor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/colors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cell.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <element signature="e#18#458#0" />
+                <element signature="e#68#214#0" />
+                <element signature="e#245#258#0" />
+                <element signature="e#289#302#0" />
+                <element signature="e#340#384#0" />
+                <element signature="e#418#459#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#64#2832#0" />
+                <element signature="e#126#625#0" />
+                <element signature="e#452#625#0" />
+                <element signature="e#624#685#0" />
+                <element signature="e#676#698#0" />
+                <element signature="e#732#892#0" />
+                <element signature="e#999#1121#0" />
+                <element signature="e#1044#1101#0" />
+                <element signature="e#1171#1560#0" />
+                <element signature="e#1606#1753#0" />
+                <element signature="e#1645#1734#0" />
+                <element signature="e#1818#1975#0" />
+                <element signature="e#2033#3080#0" />
+                <element signature="e#2103#2570#0" />
+                <element signature="e#2272#2570#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addE</find>
+      <find>print</find>
+      <find>cell.displa</find>
+      <find>cell.display()</find>
+      <find>self.displ</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print(cell)</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/colors.py" />
+        <option value="$PROJECT_DIR$/cell.py" />
+        <option value="$PROJECT_DIR$/pacman.py" />
+        <option value="$PROJECT_DIR$/grid.py" />
+        <option value="$PROJECT_DIR$/actor.py" />
+        <option value="$PROJECT_DIR$/graph.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="137" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PacMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PacMan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PacMan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PacMan" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pacman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PacMan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pacman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398d8654-c0d4-4203-b42c-6cd6c455fd0b" name="Default Changelist" comment="" />
+      <created>1553788274757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553788274757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16917293" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33483484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2042042" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.011278195" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/pacman.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971764/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5928">
+          <caret line="785" column="8" selection-start-line="785" selection-start-column="8" selection-end-line="785" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#64#2832#0" />
+            <element signature="e#126#625#0" />
+            <element signature="e#452#625#0" />
+            <element signature="e#624#685#0" />
+            <element signature="e#676#698#0" />
+            <element signature="e#732#892#0" />
+            <element signature="e#999#1121#0" />
+            <element signature="e#1044#1101#0" />
+            <element signature="e#1171#1560#0" />
+            <element signature="e#1606#1753#0" />
+            <element signature="e#1645#1734#0" />
+            <element signature="e#1818#1975#0" />
+            <element signature="e#2033#3080#0" />
+            <element signature="e#2103#2570#0" />
+            <element signature="e#2272#2570#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#256#1957#0" />
+            <element signature="e#988#1859#0" />
+            <element signature="e#1035#1806#0" />
+            <element signature="e#1151#1781#0" />
+            <element signature="e#1617#1781#0" />
+            <element signature="e#1913#2196#0" />
+            <element signature="e#1142#1165#0" />
+            <element signature="e#1227#1331#0" />
+            <element signature="e#1392#1499#0" />
+            <element signature="e#2761#2893#0" />
+            <element signature="e#2954#3128#0" />
+            <element signature="e#3204#3404#0" />
+            <element signature="e#1743#2119#0" />
+            <element signature="e#1981#2094#0" />
+            <element signature="e#3137#3290#0" />
+            <element signature="e#4292#4436#1" />
+            <element signature="e#4479#4635#0" />
+            <element signature="e#4528#4618#0" />
+            <element signature="e#4578#4618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="e#18#458#0" />
+            <element signature="e#68#214#0" />
+            <element signature="e#245#258#0" />
+            <element signature="e#289#302#0" />
+            <element signature="e#340#384#0" />
+            <element signature="e#418#459#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
